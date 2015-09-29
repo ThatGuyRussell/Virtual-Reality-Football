@@ -1,4 +1,4 @@
-[![Interactive Football](http://img.youtube.com/vi/kRBeIYm-_4I/2.jpg)](http://www.youtube.com/watch?v=kRBeIYm-_4I)
+[![Interactive Football](http://img.youtube.com/vi/kRBeIYm-_4I/0.jpg)](http://www.youtube.com/watch?v=kRBeIYm-_4I)
 
 
 # Virtual-Reality-Football
